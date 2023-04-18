@@ -53,7 +53,7 @@
     {
       "image": "/images/lister.png",
       "name": "Daily Task Manager",
-      "description": "Simple React ToDo List",
+      "description": "Simple React ToDo List with Current Day, Add Task, Edit Task, Delete Task, and Complete Task Functions.",
       "link": "https://github.com/Winphillips/task-manager",
       "linkType": "source"
     },
